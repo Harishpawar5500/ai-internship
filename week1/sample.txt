@@ -1,0 +1,3 @@
+Python is great for AI and data science.
+Python makes building RAG pipelines and AI agents clean and fast.
+Clean functions and clear docstrings make Python code easy to maintain.
